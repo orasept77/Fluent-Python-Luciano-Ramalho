@@ -10,4 +10,5 @@ my_dict['test'].append('success')
 
 print(my_dict.get('t', None))
 print(my_dict)
+print(my_duct.get('', None))
 
